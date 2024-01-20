@@ -1,0 +1,34 @@
+body
+{
+background-color: darkslateblue;
+}
+
+#title
+{
+    background-color: blanchedalmond;
+color: black;
+}
+
+#bshold
+{
+background-color: blanchedalmond;
+color: cornsilk;
+height: 25px;
+}
+
+#start
+{
+    background-color: rgb(94, 4, 4);
+    height: 25px;
+    color: rgb(249, 232, 165);
+}
+
+#cover
+{
+    border:25px solid blanchedalmond;
+}
+
+#cove
+{
+    border:25px solid blanchedalmond;
+}
